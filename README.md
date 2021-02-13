@@ -1,5 +1,7 @@
 # Social-Network-API
 
+![screenshot](public/images/screenshots/social_media_api.JPG)
+
 ## Application Description
 
 Created a backend API for use in a social media application
